@@ -1,4 +1,4 @@
-### **Ngày 2: Nền tảng Java cơ bản**  
+### **Ngày 3-4: Nền tảng Java cơ bản**  
 **Mục tiêu:**  
 - Nắm được tư duy lập trình hướng đối tượng (OOP).  
 - Hiểu sâu hơn về các đặc điểm của OOP như kế thừa, đa hình, đóng gói.  

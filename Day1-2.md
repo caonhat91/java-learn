@@ -1,4 +1,4 @@
-### **Ngày 1: Nền tảng Java cơ bản**  
+### **Ngày 1-2: Nền tảng Java cơ bản**  
 **Mục tiêu:**  
 - Hiểu các khái niệm cơ bản của Java như biến, kiểu dữ liệu, vòng lặp, và hàm.  
 
